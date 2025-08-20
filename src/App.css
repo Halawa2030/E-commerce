@@ -1,4 +1,4 @@
-.App {
+/* .App {
   text-align: center;
 }
 
@@ -35,4 +35,19 @@
   to {
     transform: rotate(360deg);
   }
+} */
+ 
+
+.halawa{
+}
+.Sidebar{
+    background-color:#f8f9fa;
+ height:100vh;
+}
+.Sidebar li {
+  padding:10px 5px;
+  text-align:center;
+}
+.Sidebar li a{
+  text-decoration:none;
 }
