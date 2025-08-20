@@ -69,7 +69,6 @@
 import { Route, Routes } from 'react-router-dom';
 import './App.css';
 import Navbar from './components/Navbar';
-import Sidebar from './components/Sidebar';
 import Homa from './Pages/Home';
 import Products from './Pages/Products';
 import AddNewProduct from './Pages/AddNewProduct';
